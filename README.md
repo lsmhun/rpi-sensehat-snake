@@ -6,7 +6,7 @@ Simple Snake game with RapberryPi SenseHAT (https://astro-pi.org/)
 * Source code: [sensehat-snake.py](sensehat-snake.py)
 * Same code in emulator: https://trinket.io/python/dab636b6f4
 
-You can reset the game with pushing middle button.
+You can reset the game by pushing middle button.
 
 ## Picture
 
